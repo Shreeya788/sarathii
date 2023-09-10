@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('App Name'),
+        title: Text('Home page'),
       ),
       body: ListView(
         children: <Widget>[
@@ -25,8 +25,8 @@ class HomePage extends StatelessWidget {
           CarouselSlider(
             items: [
               // Add carousel items (images or widgets) here
-              Image.asset('assets/image1.jpg'),
-              Image.asset('assets/image2.jpg'),
+              Image.asset('assets/images/image1.jpg'),
+              Image.asset('assets/images/image2.jpg'),
               // Add more items as needed
             ],
             options:CarouselOptions(
@@ -88,3 +88,6 @@ class HomePage extends StatelessWidget {
     );
   }
 }
+
+
+

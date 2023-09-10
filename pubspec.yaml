@@ -72,8 +72,8 @@ flutter:
   # https://flutter.dev/assets-and-images/#from-packages
   assets:
     - assets/images/logo.png
-          - assets/image1.jpg
-          - assets/image2.jpg
+    - assets/images/image1.jpg
+    - assets/images/image2.jpg
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a
