@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: sarathii
+=======
+name: sarathi
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,11 +34,20 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
+=======
+  carousel_slider: ^4.2.1
+  cupertino_icons: ^1.0.0
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
+<<<<<<< HEAD
   cupertino_icons: ^1.0.2
+=======
+
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
 
 dev_dependencies:
   flutter_test:
@@ -68,7 +81,14 @@ flutter:
 
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/assets-and-images/#from-packages
+<<<<<<< HEAD
 
+=======
+  assets:
+    - assets/images/logo.png
+    - assets/images/image1.jpg
+    - assets/images/image2.jpg
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a

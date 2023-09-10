@@ -1,4 +1,11 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
+=======
+import 'splashscreen_page.dart';
+
+
+import 'Login_Page.dart';
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
 
 void main() {
   runApp(const MyApp());
@@ -11,6 +18,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+<<<<<<< HEAD
+=======
+      debugShowCheckedModeBanner: false,
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
       title: 'Flutter Demo',
       theme: ThemeData(
         // This is the theme of your application.
@@ -31,11 +42,16 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
+<<<<<<< HEAD
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
+=======
+      home:  SplashScreen(),
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
     );
   }
 }
 
+<<<<<<< HEAD
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
@@ -123,3 +139,6 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+=======
+
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
