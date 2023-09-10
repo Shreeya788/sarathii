@@ -25,8 +25,8 @@ class HomePage extends StatelessWidget {
           CarouselSlider(
             items: [
               // Add carousel items (images or widgets) here
-              Image.asset('assets/image1.jpg'),
-              Image.asset('assets/image2.jpg'),
+              Image.asset('assets/images/image1.jpg'),
+              Image.asset('assets/images/image2.jpg'),
               // Add more items as needed
             ],
             options:CarouselOptions(
