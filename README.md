@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# sarathii
-=======
-# sarathi
->>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
 
-A new Flutter project.
 
 ## Getting Started
 
