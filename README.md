@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# sarathii
+=======
 # sarathi
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
 
 A new Flutter project.
 
@@ -14,4 +18,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+=======
 # sarathii
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b

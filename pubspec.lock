@@ -17,6 +17,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+<<<<<<< HEAD
+=======
   carousel_slider:
     dependency: "direct main"
     description:
@@ -25,6 +27,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.2.1"
+>>>>>>> ce0609dd3fc53a16bd69d579c81431bcff03f74b
   characters:
     dependency: transitive
     description:
